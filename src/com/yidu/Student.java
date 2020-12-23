@@ -8,4 +8,5 @@ package com.yidu;
  */
 public class Student {
     private String sid;
+    private String sname;
 }
